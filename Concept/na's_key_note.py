@@ -111,6 +111,7 @@ prefix_sum01()
 
 
 def practice():
+    # two pointer 문제를 prefix sum으로 풀어보기
     n, m = 5, 5
     data = [1, 2, 3, 2, 5]
     #        0  1  3  6  8  13
